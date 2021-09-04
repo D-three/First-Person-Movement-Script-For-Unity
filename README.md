@@ -14,5 +14,5 @@ Here are some requirements for the script
 
 Note: After applying this script your player will not be able to interact with objects with the **Rigidbody** component.
 
-If you have any problems, Please let me know in the comments.
+If you have any problems, Please let me know.
 
