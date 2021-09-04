@@ -1,4 +1,4 @@
-# First-Person-Movement-Script-For-Unity
+# First Person Movement Script For Unity
 
 This is a first person movement script for 3d games in unity.
 
