@@ -16,3 +16,5 @@ Note: After applying this script your player will not be able to interact with o
 
 If you have any problems, Please let me know.
 
+PS: Sorry about the gitignore, First time user!
+
