@@ -9,12 +9,14 @@ Here are some of the features in this script:
 
 Here are some requirements for the script
 
+- a capsule as player
 - Your player must have a **Character Controller** to use this script.
-- Your camera must be parented to the player.
 
-Note: After applying this script your player will not be able to interact with objects with the **Rigidbody** component.
+How to use:
+- Attach the script component to the player
+- parent the **Main Camera** to the player's head area
+- Fill in the required parameters
 
 If you have any problems, Please let me know.
 
-**New**: Headers for the parameter for easier use.
 
