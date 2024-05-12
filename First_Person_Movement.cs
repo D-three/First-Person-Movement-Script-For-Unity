@@ -65,7 +65,7 @@ public class First_Person_Movement : MonoBehaviour
         }
         else
         {
-            Velocity.y -= Gravity * -2f * Time.deltaTime;
+            Velocity.y += Gravity * -2f * Time.deltaTime;
         }
         if (Sneaking)
         {
